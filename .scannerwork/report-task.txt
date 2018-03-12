@@ -1,0 +1,6 @@
+projectKey=node-test
+serverUrl=http://localhost:9000
+serverVersion=6.7.2.37468
+dashboardUrl=http://localhost:9000/dashboard/index/node-test
+ceTaskId=AWIbpy03oOrX5Of66Xox
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWIbpy03oOrX5Of66Xox
